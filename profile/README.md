@@ -6,29 +6,39 @@
 
 # Bengaluru Tech Week
 
-Bengaluru Tech Week is a citywide builder week for founders, engineers, designers, operators, investors, researchers, students, and community organizers building from Bengaluru for India and the world.
+Bengaluru Tech Week is a citywide builder week for founders, engineers, researchers, designers, operators, investors, students, and community organizers.
 
-From **September 1-6, 2026**, independent hosts across the city will run meetups, workshops, demos, office hours, roundtables, showcases, and community gatherings. The core team curates the calendar and keeps the public experience coherent; hosts run their own venues, budgets, logistics, and guest flow.
+From **September 1 to 6, 2026**, independent hosts across Bengaluru will run meetups, workshops, demos, office hours, roundtables, showcases, and community gatherings. The core team curates one shared calendar while each host owns its event, venue, logistics, and guest experience.
 
-## Start Here
+## Explore The Week
 
-- Website: [bengalurutechweek.com](https://bengalurutechweek.com)
-- Calendar: [lu.ma/blrtechweek](https://lu.ma/blrtechweek)
-- Volunteer: [bengalurutechweek.com/volunteer](https://bengalurutechweek.com/volunteer)
-- Host an event: [bengalurutechweek.com/host](https://bengalurutechweek.com/host)
-- Contact: [hello@bengalurutechweek.com](mailto:hello@bengalurutechweek.com)
-- Updates on X: [@blrtechweek](https://x.com/blrtechweek)
-- Updates on Instagram: [@blrtechweek](https://www.instagram.com/blrtechweek/)
-- Updates on LinkedIn: [Bengaluru Tech Week](https://www.linkedin.com/company/blrtechweek)
+- [Official website](https://bengalurutechweek.com)
+- [Events](https://bengalurutechweek.com/events)
+- [Luma calendar](https://lu.ma/blrtechweek)
+- [Speakers](https://bengalurutechweek.com/speakers)
+- [Partners](https://bengalurutechweek.com/partners)
+- [FAQ](https://bengalurutechweek.com/faq)
 
-## Host Something Useful
+## Take Part
 
-If you are building for Bengaluru's technology ecosystem, you can propose an event for the week. Good fits include hands-on technical sessions, founder rooms, community meetups, product demos, research conversations, investor/operator roundtables, student gatherings, and office hours.
+- [Host an event](https://bengalurutechweek.com/host)
+- [Volunteer](https://bengalurutechweek.com/volunteer)
+- [Explore partnership options](https://bengalurutechweek.com/partners)
+- [Follow the WhatsApp channel](https://whatsapp.com/channel/0029Vb1JTcL3AzNReJAmkT3k)
 
-Hosts should bring a clear audience, a useful format, and a realistic plan for venue, capacity, attendee experience, and safety. Approved hosts create or update their own Luma event and add the Bengaluru Tech Week calendar as co-host so the event appears on the citywide calendar and website.
+## How The Week Works
 
-## Partner With The Week
+Bengaluru Tech Week is a shared citywide layer, not one centralized conference. Hosts keep their own identity, format, registration, and audience. The common website and calendar help builders discover the people, ideas, and communities gathering across the city.
 
-We welcome mission-aligned sponsors, venue partners, media partners, community partners, and in-kind supporters who make the week more useful for builders. Sponsorship should add useful access, resources, and context while keeping the calendar community-led.
+## GitHub
 
-Share interest through the website's partner form or email [hello@bengalurutechweek.com](mailto:hello@bengalurutechweek.com) for custom conversations.
+This organization holds the website, internal platform services, operational documentation, and historical snapshots used by the Bengaluru Tech Week team. Most working repositories are private because they include unpublished programme data or deployment configuration.
+
+Security reports and repository questions should follow the guidance in [SECURITY.md](../SECURITY.md) and [SUPPORT.md](../SUPPORT.md).
+
+## Follow Bengaluru Tech Week
+
+- [LinkedIn](https://www.linkedin.com/company/blrtechweek)
+- [Instagram](https://www.instagram.com/blrtechweek/)
+- [X](https://x.com/blrtechweek)
+- [Email](mailto:hello@bengalurutechweek.com)
