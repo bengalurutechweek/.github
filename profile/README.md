@@ -10,14 +10,16 @@ Bengaluru Tech Week is a citywide builder week for founders, engineers, research
 
 The inaugural edition ran from **September 1 to 6, 2026**, bringing independently hosted meetups, workshops, demos, office hours, roundtables, showcases, and community gatherings into one shared citywide calendar.
 
-## Explore The Week
+The next Bengaluru Tech Week runs from **August 2 to 8, 2027**, with Aarambha on August 1 as Day 0.
 
-- [2026 highlights and website](https://bengalurutechweek.com)
-- [Events](https://bengalurutechweek.com/events)
-- [Luma calendar](https://lu.ma/blrtechweek)
-- [Speakers](https://bengalurutechweek.com/speakers)
-- [Partners](https://bengalurutechweek.com/partners)
-- [FAQ](https://bengalurutechweek.com/faq)
+## Explore Bengaluru Tech Week
+
+- [2027 dates and interest page](https://bengalurutechweek.com)
+- [Follow the 2027 calendar](https://luma.com/btw2027)
+- [2026 highlights and archive](https://bengalurutechweek.com/2026)
+- [2026 events](https://bengalurutechweek.com/2026/events)
+- [2026 speakers](https://bengalurutechweek.com/2026/speakers)
+- [2026 partners](https://bengalurutechweek.com/2026/partners)
 
 ## Stay Connected
 
